@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/anytime0916@naver.com-#EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<img src="https://user-images.githubusercontent.com/43779730/171615052-778b95a5-1434-4a01-804a-b30b27fd5c92.png"/>
