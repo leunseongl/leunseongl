@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 <!-- <img src="https://user-images.githubusercontent.com/43779730/171615052-778b95a5-1434-4a01-804a-b30b27fd5c92.png"/> -->
 
 
+
+⚡a
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=anytime0916)](https://solved.ac/anytime0916)
