@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ⚡ K digital training 빅데이터 분석 과정 수료 (2021.07 ~ 2021.12)
 
 ⚡SSAFY (삼성 sw 청년 아카데미) 9기 (2023.01 ~ )
-<img src="https://user-images.githubusercontent.com/43779730/171615052-778b95a5-1434-4a01-804a-b30b27fd5c92.png"/>
+<!-- <img src="https://user-images.githubusercontent.com/43779730/171615052-778b95a5-1434-4a01-804a-b30b27fd5c92.png"/> -->
