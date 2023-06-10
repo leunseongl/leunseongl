@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 
 
+
 ⚡algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=anytime0916)](https://solved.ac/anytime0916)
