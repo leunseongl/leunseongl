@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="[![image](https://github.com/leunseongl/leunseongl/assets/105471465/8e14437c-bf84-4346-a9d6-9bf166b00739)](https://event.hankyung.com/seminar/kdt2020/images/m.logo-black.png)"/>
+<img src="https://images.velog.io/images/kmnkit/post/2f386cb1-af93-45a5-8fc9-20fa1f97827f/kdigital.jpeg"/>
 <img src="https://user-images.githubusercontent.com/43779730/171615052-778b95a5-1434-4a01-804a-b30b27fd5c92.png"/>
