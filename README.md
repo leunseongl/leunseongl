@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="[https://img.shields.io](https://simpleicons.org/icons/gmail.svg)/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/anytime0916@naver.com-#EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
